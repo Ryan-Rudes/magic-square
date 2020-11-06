@@ -1,2 +1,2 @@
 # magic-square
-A code implementation in Python, Java, and C which search for magic squares.
+A code implementation in Java and C which search for magic squares.
